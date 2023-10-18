@@ -19,5 +19,5 @@
      <div align="center" style="margin: 40px 0">
    <a href="">
        <img width="175px" src="https://komarev.com/ghpvc/?username=StrategEqu&style=flat-square&color=blue" alt=""/>
-      
+      </a>
 </div>
