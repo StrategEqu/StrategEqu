@@ -7,7 +7,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrategEqu&layout=compact"/></a>
 </p>
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/StrategEqu/github-profile-views-counter">
+   <a href="">
        <img width="175px" src="https://komarev.com/ghpvc/?username=StrategEqu&color=DE002D">
    </a>
 
