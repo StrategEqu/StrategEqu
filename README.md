@@ -6,11 +6,11 @@
    <a href="https://github.com/StrategEqu/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrategEqu&layout=compact"/></a>
 </p>
-
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif"/>
 </div>
-
+---
    <div align="center" style="margin: 20px 0">
    <a href="">
        <img width="175px" src="https://komarev.com/ghpvc/?username=StrategEqu&style=flat-square&color=blue" alt=""/>
