@@ -12,8 +12,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif"/>
 </div>
-      
----
 
    <div align="center" style="margin: 20px 0">
    <a href="">
