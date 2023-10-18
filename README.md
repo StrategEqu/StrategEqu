@@ -10,9 +10,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif"/>
 </div>
----
 
-### :hammer_and_wrench: Languages and Tools :
    <div align="center" style="margin: 20px 0">
    <a href="">
        <img width="175px" src="https://komarev.com/ghpvc/?username=StrategEqu&style=flat-square&color=blue" alt=""/>
