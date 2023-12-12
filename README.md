@@ -13,7 +13,10 @@
   <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif"/>
 </div>
 
-   <div align="center"  href="https://t.me/Strategy_0">
+   <div align="center" style="margin: 20px 0">
+
+  <p align='center'>
+     <a href="https://t.me/Strategy_0">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </div>
