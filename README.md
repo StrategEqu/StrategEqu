@@ -1,13 +1,20 @@
 <p align='center'>
-Hi there👋
+Hello, I'm Dmitry👋<br>Java developer from Saint-Petersburg</p>
 <p align='center'>  
   <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif" width="150"/>
 </div>
 
-<p align='center'>
-     <a href="https://t.me/Strategy_0">
+---
+
+<div style="text-align: left;">
+- I am doing an internship at school 21<br>- Development of educational projects<br>- Participation in code review<br>- In my free time I study new technologies</p>
+
+  <p align='center'>
+My contacts: </p>
+ <p align='center'>
+    <a href="https://t.me/Strategy_0">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+</div>
   
 ---
 
