@@ -1,8 +1,12 @@
 ### Hi 👋
-
+<p align='center'>
+     <a href="https://t.me/Strategy_0">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+  
 ---
 
-### Languages and Tools :
+### <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f6e0.png" width="18"> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
@@ -36,12 +40,4 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif"/>
-</div>
-
-   <div align="center" style="margin: 20px 0">
-
-  <p align='center'>
-     <a href="https://t.me/Strategy_0">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
 </div>
