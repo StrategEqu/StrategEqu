@@ -7,7 +7,7 @@ Hello, I'm Dmitry👋<br>Java developer from Saint-Petersburg</p>
 ---
 
 <div style="text-align: left;">
-- I am doing an internship at school 21<br>- Development of educational projects<br>- Participation in code review<br>- In my free time I study new technologies</p>
+- I am doing an internship at school 21<br>- Development of educational projects<br>- Interacted with the team, participated in code reviews<br>- In my free time I study new technologies</p>
 
   <p align='center'>
 My contacts: </p>
