@@ -1,4 +1,9 @@
-### Hi 👋
+<p align='center'>
+Hi there👋
+<p align='center'>  
+  <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif"/>
+</div>
+
 <p align='center'>
      <a href="https://t.me/Strategy_0">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
