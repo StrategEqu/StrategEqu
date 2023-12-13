@@ -2,7 +2,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=StrategEqu&show_icons=true&count_private=true&theme=vision-friendly-dark">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=StrategEqu&show_icons=true&count_private=true&theme=vision-friendly-dark"/></a>
