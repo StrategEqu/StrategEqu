@@ -1,7 +1,7 @@
 <p align='center'>
 Hi there👋
 <p align='center'>  
-  <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif"/>
+  <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif" width="150"/>
 </div>
 
 <p align='center'>
