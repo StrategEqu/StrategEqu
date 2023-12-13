@@ -12,7 +12,7 @@ Hello, I'm Dmitry👋</p>
 ---
 
 <div style="text-align: left;">
-  About Me:<br>I'm a Java Developer from Saint-Petersburg<br>- I am doing an internship at school 21<br>- Development of educational projects<br>- Interact with the team, participate in code reviews.<br>- In my free time I study new technologies</p>
+  <img src="https://cdn-icons-png.flaticon.com/512/7512/7512521.png" width="20"> About Me:<br>:electron: I'm a Java Developer from Saint-Petersburg.<br>- I am doing an internship at school 21.<br>- Development of educational projects.<br>- Interact with the team, participate in code reviews.<br>- In my free time I study new technologies.</p>
   
 ---
 
@@ -38,7 +38,7 @@ Hello, I'm Dmitry👋</p>
 
 ---
 
-### My Stats :
+### <img src="https://flomaster.top/uploads/posts/2023-10/thumbs/1697250776_flomaster-top-p-ogon-risunok-instagram-50.png" width="20"> My Stats :
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=StrategEqu&show_icons=true&count_private=true&theme=vision-friendly-dark">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=StrategEqu&show_icons=true&count_private=true&theme=vision-friendly-dark"/></a>
