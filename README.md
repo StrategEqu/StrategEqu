@@ -1,7 +1,7 @@
-<p align='center'>
-Hello, I'm Dmitry👋</p>
+<h1 align='center'>
+Hello, I'm Dmitry👋</h1>
 <p align='center'>  
-  <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/JHliQh4MRn1Vcoo7pW/giphy.gif" width="230"/>
 </div>
 
  <p align='center'>
