@@ -12,7 +12,7 @@ Hello, I'm Dmitry👋</h1>
 ---
 
 <div style="text-align: left;">
-  <img src="https://cdn-icons-png.flaticon.com/512/7512/7512521.png" width="20"> About Me:<br>I'm a Java Developer from Saint-Petersburg.<br>- I am doing an internship at school 21.<br>- Development of educational projects.<br>- Interact with the team, participate in code reviews.<br>- In my free time I study new technologies.</p>
+  <img src="https://cdn-icons-png.flaticon.com/512/7512/7512521.png" width="20"> About Me:<br>I'm a QA Engineer from Saint-Petersburg.<br>- I am doing an internship at school 21.<br>- Development of educational projects.<br>- Interact with the team, participate in code reviews.<br>- In my free time I study new technologies.<br>- Conduct testing, including functional, regression, and performance testing.</p>
   
 ---
 
